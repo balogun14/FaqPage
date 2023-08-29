@@ -1,0 +1,1 @@
+const question_text = document.getElementsByClassName('question-text')
